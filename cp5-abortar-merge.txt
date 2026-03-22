@@ -1,0 +1,9 @@
+El comando git merge --abort usado:
+
+Se usa para cancelar el fusionado de ramas frente a un conflicto.
+
+Una frase que explique en qué situaciones te puede salvar este comando:
+
+Situaciones en la que el conflicto es muy grave y puede romper cosas que no habiamos previsto.
+
+El comando git merge --abort te salva cuando una fusión genera conflictos tan complejos o inesperados que prefieres detenerte y devolver el repositorio a su estado exacto previo al inicio del merge
