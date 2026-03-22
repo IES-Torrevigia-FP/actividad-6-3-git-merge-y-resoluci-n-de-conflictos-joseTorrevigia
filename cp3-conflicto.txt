@@ -1,0 +1,27 @@
+En la rama main
+Tu rama está adelantada a 'origin/main' por 4 commits.
+  (usa "git push" para publicar tus commits locales)
+
+Tienes rutas no fusionadas.
+  (arregla los conflictos y ejecuta "git commit"
+  (usa "git merge --abort" para abortar la fusion)
+
+Rutas no fusionadas:
+  (usa "git add <archivo>..." para marcar una resolución)
+	modificados por ambos:  historia.txt
+
+Archivos sin seguimiento:
+  (usa "git add <archivo>..." para incluirlo a lo que será confirmado)
+	cp2-merge-limpio.txt
+	cp3-conflicto.txt
+
+sin cambios agregados al commit (usa "git add" y/o "git commit -a")
+
+
+
+<<<<<<< HEAD
+Línea 2: La historia principal avanza en la rama main.
+=======
+Línea 2: La historia toma un camino alternativo en otra rama.
+>>>>>>> version-alternativa
+Línea 3: Aún no hay ramas alternativas.
