@@ -1,0 +1,14 @@
+El comando que usado para realizar la fusión de ramas es:
+
+git merge capitulo-1
+
+9d94343 add CP#1
+0ecaafd Añade línea para el capítulo 1
+a03ce42 Crea historia inicial en main
+c84a6f5 add deadline
+04dd0a5 Initial commit
+
+
+Una frase explicando qué es un merge sin conflicto:
+
+Un merge sin conflicto es una fusión entre ramas en el que no se encuentra nada contradictorio entre ellas y por tanto se puede realizar automaticamente y rapidamente ese fusionado de ambas ramas.
