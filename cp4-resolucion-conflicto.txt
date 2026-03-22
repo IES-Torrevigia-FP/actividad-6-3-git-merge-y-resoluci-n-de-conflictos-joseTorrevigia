@@ -1,0 +1,12 @@
+1f29ac1 Modifica línea 2 en main
+9d94343 add CP#1
+0ecaafd Añade línea para el capítulo 1
+a03ce42 Crea historia inicial en main
+c84a6f5 add deadline
+04dd0a5 Initial commit
+
+
+
+Una explicación (3–4 líneas) de qué pasos has seguido para resolver el conflicto:
+
+Al hacer un merge con ramas en conflicto se debe decidir por una rama, por la otra o por una intermedia que satisfaga ambas ramas. Es lo que hemos hecho al solucionar el conflicto que nos ocupa.
